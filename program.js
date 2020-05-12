@@ -1,4 +1,4 @@
-alert('coucou');
+// alert('coucou');
 
 var mapElement = document.getElementById('map')
 var mapOptions = {
